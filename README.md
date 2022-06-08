@@ -1,4 +1,4 @@
-# migrimage-proposal
+# Graa
 Propuestas colaborativas de ideación en proyectos para crowdsourcing/crowdfunding. Migrimage summer School, 2022
 
 
@@ -51,6 +51,10 @@ Hacer un cuestionario sobre los refugiados climaticos para que la gente puedan h
 
 -----
 
+
+Licencia: 
+
+COmo podeis participar
 ## Recursos 
  
 * Recursos para desarrollo del proyecto https://github.com/mgea/migrimage-proposal/blob/main/recursos.md
