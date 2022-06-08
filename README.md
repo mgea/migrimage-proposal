@@ -1,22 +1,22 @@
-# migrimage-crowdsourcing_together
+# migrimage-crowdsourcing-Pink
 Propuestas colaborativas de ideación en proyectos para crowdsourcing/crowdfunding. Migrimage summer School, 2022
 
 
 
-* Nombre del proyecto:
+* Nombre del proyecto: Sapfo En Llamas
 
 
 * Logotipo: 
 
 ![logotipo](https://github.com/mgea/migrimage-proposal/blob/main/img-nobody.png)
 
-* Descripción: 
+* Descripción: Taller de serigrafía como herramienta de comunicación social para personas en Mytilene. 
 
-* Autor: 
+* Autor: Colectiva Sapfo En Llamas 
 
-* Fecha
+* Fecha 
 
-* Licencia: 
+* Licencia: Creative Commons 
 
 * URL: 
 
