@@ -1,4 +1,4 @@
-# migrimage-proposal
+# migrimage-crowdsourcing_together
 Propuestas colaborativas de ideación en proyectos para crowdsourcing/crowdfunding. Migrimage summer School, 2022
 
 
